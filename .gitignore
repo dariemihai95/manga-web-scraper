@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# other
+converted_images/
+downloaded_images/
+.DS_Store
